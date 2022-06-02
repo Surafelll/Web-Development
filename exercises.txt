@@ -1,0 +1,6 @@
+        lesson 1 Exercises-HTML Basics
+    1a.create button with text "click"
+    2b.create 2 button. 1 with your name and 1 with your favorite food
+    1c.create a paragraph with the text "Hello,world!"
+    1d.create a paragraph below the previous paragraph and write something you did today
+    

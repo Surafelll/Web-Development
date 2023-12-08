@@ -1,5 +1,0 @@
-2a. uber button
-2b. amazon button 
-2c. github button
-2d. Bootstrap button
-2e.Linkedln button
